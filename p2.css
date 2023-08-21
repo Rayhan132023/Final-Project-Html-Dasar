@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: rgb(235, 233, 236);
+}
+body{
+    background-image: url(prs.jpg); background-size: cover;
+}
+p{
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+}
